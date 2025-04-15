@@ -1,9 +1,3 @@
----
-title: 作業二 - 網際網路實務筆記
-tags: [隨堂作業, hackmd]
-
----
-
 # 網際網路實務筆記
 
 - [我的第一個 HackMD 筆記](https://hackmd.io/@empty0828/first-hackmd)
